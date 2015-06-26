@@ -1,0 +1,13 @@
+body{
+	background-color: #57E3F2;
+}
+p{
+	color:white;
+}
+p#Mark_Ohara {
+	color:orange;
+}
+
+p.hobbies {
+	color:#03A80E;
+}
